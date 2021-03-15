@@ -117,8 +117,8 @@
 ### Источники:
 В зависимости от роли порядок каналов может сильно меняться, но если говорить про базовую, усредненную вакансию, список будет следующим:
 - ATS
-- [Rabota.by](http://rabota.by)
-- [Linkedin](http://linkedin.com)
+- Rabota.by
+- Linkedin
 - профессиональные коммьюнити и платформы ([GitHub](https://github.com), [Stack Overflow](https://stackoverflow.com), [Kaggle](https://www.kaggle.com), [Behance](https://www.behance.net), [Artstation](https://www.artstation.com) и т. п.)
 - Telegram
 - социальные сети (vk.com, facebook, instagram, twitter)

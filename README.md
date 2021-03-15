@@ -75,7 +75,7 @@
 - Job Offer
 
 
-<i>Этап Test Task может быть включен опционально и находиться в том числе до этапа Phone Screen или Interview</i>
+<i>Этап Test Task может быть включен опционально и находиться, в том числе, до этапа Phone Screen или Interview</i>
 
 <a id='active_search'></a>
 # 2. <center>Активный поиск</center>

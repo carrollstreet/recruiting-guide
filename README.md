@@ -43,7 +43,7 @@
 ### Порталы для публикации:
 После валидирования роли и уточнения всех, необходимых для начала поиска данных, рекрутер публикует ваканисию на некоторых из следующих площадок:
   - Корпоративный сайт (через [Applicant Tracking System (ATS)](https://ru.wikipedia.org/wiki/Система_управления_кандидатами) или отдельным сервисом)
-  - Сайты для поиска работы в РБ ([rabota.by](https://rabota.by/), [dev.by](https://dev.by/), LinkedIn Job Post)
+  - Сайты для поиска работы в РБ ([rabota.by](https://rabota.by/), [dev.by](https://dev.by/), [LinkedIn Job Post](https://www.linkedin.com/talent/post-a-job))
   - Социальные сети - cообщества в vkontakte / telegram / facebook, посты на персональной странице в Linkedin, посты от лица компании в Linkedin (может делать маркетинг)
   - Таргетированная реклама вакансии (vkontakte / facebook / instagram и т.п.)
 

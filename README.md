@@ -186,7 +186,7 @@ Google X-Ray, это способ использования операторо�
 - `site:stackoverflow.com/cv Belarus python (django|flask|tornado|rabbitmq)`
 - `site:habr.com/ru/users/ postgresql -inurl:(posts|comments|favorites)`
 - `site:career.habr.com/ python -inurl:(courses|vacancies|report|resumes|companies|education_centers)`
-- `site:kaggle.com “last seen” (Russia|Россия) "Competitions Expert"`
+- `site:kaggle.com "last seen" (Russia|Россия) "Competitions Expert"`
 - `site:mobygames.com/developer/ ("game design" OR "game designer") "assassin creed" -level`
 - `site:twitter.com/ "ui designer" Russia -inurl:status`
 

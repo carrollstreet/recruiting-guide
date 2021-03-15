@@ -351,6 +351,7 @@ Python, Go, Flask, Celery, Rest, RabbitMQ, Zookiper, Redis, PostgreSQL
 
 Что думаете? Вам было бы интересно обсудить подробнее наше предложение?
 
+{подпись с контактами}
 <a id='follow_up'></a>
 ## Follow Up
 

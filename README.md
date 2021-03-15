@@ -80,7 +80,7 @@
 <a id='active_search'></a>
 # 2. <center>Активный поиск</center>
 
-## Обзор:
+### Обзор:
 - [С чего начинается активный поиск](#start_search)
 - [Порядок каналов для активного поиска](#channel_order)
 - [Boolean Search](#basic_boolean)

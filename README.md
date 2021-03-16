@@ -251,7 +251,7 @@ Stack Overflow — система вопросов и ответов о прог
 [Stack Exchange](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) - это сервис, который позволяет обращаться к базе Stack Overflow посредством SQL-запросов. К счастью, вам не придётся учить для этого SQL, так как есть ряд готовых решений, которые позволят найти необходимую вам информацию. Например, запрос по ссылке обращается к базе и делает фильтрацию профилей пользователей по двум тэгам, первый - локация, второй - язык программирования/технология и дает вам список страниц специалистов, отсортированных по рейтингу.
 
 ### Google X-Ray: 
-- `site:stackoverflow.com/users belarus python`
+- `site:stackoverflow.com/users Belarus python`
 - `site:stackoverflow.com/cv Belarus java spring`
 
 <a id='telegram'></a>

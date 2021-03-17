@@ -1,4 +1,4 @@
-# <center>Пошаговый гайд для рекрутера</center>
+# <center>Пошаговый гайд рекрутера</center>
 
 ### Авторы:
 - https://www.linkedin.com/in/kiryls/

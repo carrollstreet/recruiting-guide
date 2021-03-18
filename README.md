@@ -273,7 +273,7 @@ Stack Overflow — система вопросов и ответов о прог
 Это список must have расширений, которые автоматизируют рутинные действия (например сохранение шаблонов писем и вызов их при помощи горячих клавиш и т.п.), облегчают поиск информации о кандидатах, а также упрощают скрининг.
 
 ### Productivity:
-- [One Tab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall). Собирает вкладки в одну, в результате чего их становится не только удобнее хранить, но и нагрузка браузера на систему снижается. При помощи этого расширения можно формировать списки кандидатов из ссылок на их профайлы и в пару кликов высылать на ревью заинтересованным лицам (вместо множества копипастов и потерянного времени на рутинные действия)
+- [One Tab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall). Собирает вкладки в одну, в результате чего их становится удобнее хранить. При помощи этого расширения можно формировать списки кандидатов из ссылок на их профайлы и в пару кликов высылать на ревью заинтересованным лицам (вместо множества копипастов и потерянного времени на рутинные действия)
 - [Li Extension](https://chrome.google.com/webstore/detail/linkedin-extension/meajfmicibjppdgbjfkpdikfjcflabpk). Присылает уведомления о новых событиях в Linkedin
 - [Multi-Highlighter](https://chrome.google.com/webstore/detail/multi-highlight/pfgfgjlejbbpfmcfjhdmikihihddeeji). Подсвечивает в тексте на странице выбранные вами слова. Это очень удобно использовать для выделения ключевых технологий, на которые вы ориентируетесь при поиске
 - [Clipboard History](https://chrome.google.com/webstore/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk). Сохраняет скопированную информацию из буфера обмена в расширение
